@@ -1,0 +1,7 @@
+{
+    "ManifestVersion":3, "Servers":
+    {
+        "Official": [{ "Address":"194.147.90.149","Port":35002,"Tags":"" }], 
+        "Banned": []
+    }
+}
