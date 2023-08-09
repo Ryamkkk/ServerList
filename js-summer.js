@@ -1,5 +1,5 @@
 // Получаем элемент прогресс бара
-const progressBar = document.querySelector('.progress-bar progress-bar-animated bg-success progress-bar-striped');
+const progressBar = document.querySelector('.progress');
 
 // Пример значения, которое приходит в запросе (ваша логика может быть другой)
 const progressValue = 50; // Здесь 50 - это просто пример значения
