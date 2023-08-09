@@ -1,8 +1,8 @@
 // Получаем элемент прогресс бара
-const progressBar = document.querySelector('.progress');
+const progressBar = document.querySelector('.progress-bar');
 
 // Пример значения, которое приходит в запросе (ваша логика может быть другой)
-const progressValue = 50; // Здесь 50 - это просто пример значения
+const progressValue = 46; // Здесь 50 - это просто пример значения
 
 // Обновляем значение атрибута "aria-valuenow" для прогресс бара
 progressBar.setAttribute('aria-valuenow', progressValue);
